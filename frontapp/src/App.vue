@@ -12,12 +12,12 @@ import HelloWorld from "./components/HelloWorld.vue";
       width="125"
       height="125"
     />
-    <h1>Github Actions</h1>
+    <h1>Yedam Project</h1>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
 
       <nav>
-        <RouterLink to="/">Yedam</RouterLink>
+        <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
